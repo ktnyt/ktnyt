@@ -13,7 +13,7 @@ jobs:
       - uses: kawamataryo/lapras-card-readme@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHARE_ID: 'ktnyt'SHARE_ID: <YOUR_SHARE_ID>
+          SHARE_ID: 'ktnyt'
           ICON_FIRST: "#f97f90"
           ICON_SECOND: "#ffc7cd"
           BACKGROUND_FIRST: "#f08d9a"
