@@ -1,0 +1,21 @@
+name: LAPRAS Card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-card:
+    name: LAPRAS Card
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kawamataryo/lapras-card-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHARE_ID: 'ktnyt'SHARE_ID: <YOUR_SHARE_ID>
+          ICON_FIRST: "#f97f90"
+          ICON_SECOND: "#ffc7cd"
+          BACKGROUND_FIRST: "#f08d9a"
+          BACKGROUND_SECOND: "#ffcfd5"
+          LANG: "ja"
