@@ -6,6 +6,6 @@ A Go advocate, scientific software developer, and all-round engineer. Familiar, 
 - She/Her/They/Them
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/ktnyt" target="_blank" rel="noopener noreferrer"><img alt="ktnytのLAPRASでのスコアは次の通りです: エンジニアリング: 3.88 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.72 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.88&b=3.48&i=3.72&b1=%23f08d9a&b2=%23ffcfd5&i1=%23f97f90&i2=%23ffc7cd&l=ja" width="400" ></a>  
-Last Updated on 10/21/2024, 12:24:44 AM</p>
+<p ><a href="https://lapras.com/public/ktnyt" target="_blank" rel="noopener noreferrer"><img alt="ktnytのLAPRASでのスコアは次の通りです: エンジニアリング: 3.94 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.72 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.94&b=3.48&i=3.72&b1=%23f08d9a&b2=%23ffcfd5&i1=%23f97f90&i2=%23ffc7cd&l=ja" width="400" ></a>  
+Last Updated on 10/22/2024, 12:23:50 AM</p>
 <!--END_SECTION:lapras-card-->
